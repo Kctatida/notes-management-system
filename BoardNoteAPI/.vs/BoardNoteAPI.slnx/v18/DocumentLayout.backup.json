@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikit\\source\\repos\\BoardNoteAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC9111-52AD-9842-A0A8-B2B6D9DB04AE}|BoardNoteAPI\\BoardNoteAPI.csproj|c:\\users\\nikit\\source\\repos\\boardnoteapi\\boardnoteapi\\controllers\\noteconnectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC9111-52AD-9842-A0A8-B2B6D9DB04AE}|BoardNoteAPI\\BoardNoteAPI.csproj|solutionrelative:boardnoteapi\\controllers\\noteconnectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC9111-52AD-9842-A0A8-B2B6D9DB04AE}|BoardNoteAPI\\BoardNoteAPI.csproj|c:\\users\\nikit\\source\\repos\\boardnoteapi\\boardnoteapi\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC9111-52AD-9842-A0A8-B2B6D9DB04AE}|BoardNoteAPI\\BoardNoteAPI.csproj|solutionrelative:boardnoteapi\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC9111-52AD-9842-A0A8-B2B6D9DB04AE}|BoardNoteAPI\\BoardNoteAPI.csproj|c:\\users\\nikit\\source\\repos\\boardnoteapi\\boardnoteapi\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC9111-52AD-9842-A0A8-B2B6D9DB04AE}|BoardNoteAPI\\BoardNoteAPI.csproj|solutionrelative:boardnoteapi\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFC9111-52AD-9842-A0A8-B2B6D9DB04AE}|BoardNoteAPI\\BoardNoteAPI.csproj|c:\\users\\nikit\\source\\repos\\boardnoteapi\\boardnoteapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFC9111-52AD-9842-A0A8-B2B6D9DB04AE}|BoardNoteAPI\\BoardNoteAPI.csproj|solutionrelative:boardnoteapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoardController.cs",
+              "DocumentMoniker": "C:\\Users\\nikit\\source\\repos\\BoardNoteAPI\\BoardNoteAPI\\Controllers\\BoardController.cs",
+              "RelativeDocumentMoniker": "BoardNoteAPI\\Controllers\\BoardController.cs",
+              "ToolTip": "C:\\Users\\nikit\\source\\repos\\BoardNoteAPI\\BoardNoteAPI\\Controllers\\BoardController.cs",
+              "RelativeToolTip": "BoardNoteAPI\\Controllers\\BoardController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T20:03:21.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteConnectionController.cs",
+              "DocumentMoniker": "C:\\Users\\nikit\\source\\repos\\BoardNoteAPI\\BoardNoteAPI\\Controllers\\NoteConnectionController.cs",
+              "RelativeDocumentMoniker": "BoardNoteAPI\\Controllers\\NoteConnectionController.cs",
+              "ToolTip": "C:\\Users\\nikit\\source\\repos\\BoardNoteAPI\\BoardNoteAPI\\Controllers\\NoteConnectionController.cs",
+              "RelativeToolTip": "BoardNoteAPI\\Controllers\\NoteConnectionController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T20:02:59.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nikit\\source\\repos\\BoardNoteAPI\\BoardNoteAPI\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BoardNoteAPI\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nikit\\source\\repos\\BoardNoteAPI\\BoardNoteAPI\\AppDbContext.cs",
+              "RelativeToolTip": "BoardNoteAPI\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T19:59:52.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\nikit\\source\\repos\\BoardNoteAPI\\BoardNoteAPI\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "BoardNoteAPI\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\nikit\\source\\repos\\BoardNoteAPI\\BoardNoteAPI\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "BoardNoteAPI\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwGwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T19:58:58.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
