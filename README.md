@@ -33,3 +33,8 @@
 ```bash
 cd BoardNoteAPI
 dotnet run
+
+### Frontend
+cd frontend
+npm install
+npm run dev
