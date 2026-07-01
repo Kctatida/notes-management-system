@@ -1,0 +1,13 @@
+# Бэкенд конфигурация
+BoardNoteAPI/BoardNoteAPI/appsettings.json
+BoardNoteAPI/BoardNoteAPI/appsettings.Development.json
+
+# Папки сборки
+BoardNoteAPI/BoardNoteAPI/bin/
+BoardNoteAPI/BoardNoteAPI/obj/
+
+
+# Фронтенд (Node.js / React / Vue - на будущее, если нужно)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
