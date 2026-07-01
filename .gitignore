@@ -11,3 +11,7 @@ BoardNoteAPI/BoardNoteAPI/obj/
 frontend/node_modules/
 frontend/dist/
 frontend/.env
+
+
+# Настройки Visual Studio
+BoardNoteAPI/.vs/
